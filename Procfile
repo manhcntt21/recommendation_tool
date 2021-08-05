@@ -1,1 +1,1 @@
-web: gunicorn app:app --max-requests 2
+web: gunicorn app:flask_example --max-requests 2
