@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-autopep8=1.5.7=pyhd3eb1b0_0
 backcall=0.2.0=pyhd3eb1b0_0
 blas=1.0=mkl
 brotli=1.0.9=ha925a31_2
