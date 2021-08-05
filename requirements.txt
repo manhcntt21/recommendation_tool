@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-brotli==1.0.9=ha925a31_2
 ca-certificates==2021.7.5=haa95532_1
 certifi==2021.5.30=py39haa95532_0
 click==8.0.1=pyhd3eb1b0_0
