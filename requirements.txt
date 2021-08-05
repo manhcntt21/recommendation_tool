@@ -51,7 +51,7 @@ prompt-toolkit==3.0.17=pyh06a4308_0
 pycodestyle==2.7.0=pyhd3eb1b0_0
 pygments==2.9.0=pyhd3eb1b0_0
 pyparsing==2.4.7=pyhd3eb1b0_0
-pyqt=5.9.2==py39hd77b12b_6
+pyqt==5.9.2=py39hd77b12b_6
 python==3.9.6=h6244533_0
 python-dateutil==2.8.2=pyhd3eb1b0_0
 python_abi==3.9=2_cp39
