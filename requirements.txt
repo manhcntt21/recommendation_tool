@@ -33,7 +33,7 @@ lz4-c==1.9.3=h2bbff1b_0
 markupsafe==2.0.1=py39h2bbff1b_0
 matplotlib==3.4.2=py39haa95532_0
 matplotlib-base==3.4.2=py39h49ac443_0
-mkl=2020.2==256
+mkl==2020.2=256
 mkl-service==2.3.0=py39h196d8e1_0
 mkl_fft==1.3.0=py39h46781fe_0
 mkl_random==1.0.2=py39h848d8c7_0
