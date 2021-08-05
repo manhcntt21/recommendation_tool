@@ -19,3 +19,4 @@ six==1.16.0
 threadpoolctl==2.2.0
 wheel==0.36.2
 wincertstore==0.2
+gunicorn
