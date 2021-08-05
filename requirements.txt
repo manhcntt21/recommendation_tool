@@ -29,7 +29,7 @@ six==1.16.0=pyhd3eb1b0_0
 sqlite==3.36.0=h2bbff1b_0
 threadpoolctl==2.2.0=pyhb85f177_0
 tzdata==2021a=h52ac0ba_0
-vc=14.2==h21ff451_1
+vc==14.2=h21ff451_1
 vs2015_runtime==14.27.29016=h5e58377_2
 werkzeug==1.0.1=py_0
 wheel==0.36.2=pyhd3eb1b0_0
