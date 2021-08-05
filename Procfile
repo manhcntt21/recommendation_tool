@@ -1,1 +1,1 @@
-web: gunicorn flask_example:app --max-requests 2
+web: gunicorn app:app --preload
