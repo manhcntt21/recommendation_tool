@@ -19,9 +19,9 @@ ipykernel==5.3.4=py39h7b7c402_0
 ipython==7.22.0=py39hd4e2768_0
 ipython_genutils==0.2.0=pyhd3eb1b0_1
 itsdangerous==2.0.1=pyhd3eb1b0_0
-jedi=0.17.2==py39haa95532_1
-jinja2=3.0.1==pyhd3eb1b0_0
-joblib=1.0.1==pyhd3eb1b0_0
+jedi==0.17.2=py39haa95532_1
+jinja2==3.0.1=pyhd3eb1b0_0
+joblib==1.0.1=pyhd3eb1b0_0
 jpeg=9b==hb83a4c4_2
 jupyter_client==6.1.12=pyhd3eb1b0_0
 jupyter_core=4.7.1==py39haa95532_0
