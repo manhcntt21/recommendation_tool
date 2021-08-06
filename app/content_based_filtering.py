@@ -8,7 +8,7 @@ from numpy.core.fromnumeric import shape
 import pandas as pd
 # reading user file
 u_cols = ['user_id', 'age', 'sex', 'occupation', 'zip_code']
-users = pd.read_csv('./data/recommendation_systems/ml-100k/u.user',
+users = pd.read_csv('../data/recommendation_systems/ml-100k/u.user',
                     sep='|', names=u_cols, encoding='latin-1')
 n_users = users.shape[0]
 
@@ -16,9 +16,9 @@ print('Number of users:', n_users)
 
 # reading ratings file
 r_cols = ['user_id', 'movid_id', 'rating', 'unix_timestamp']
-ratings_base = pd.read_csv('./data/recommendation_systems/ml-100k/ua.base',
+ratings_base = pd.read_csv('../data/recommendation_systems/ml-100k/ua.base',
                            sep='\t', names=r_cols, encoding='latin-1')
-ratings_test = pd.read_csv('./data/recommendation_systems/ml-100k/ua.test',
+ratings_test = pd.read_csv('../data/recommendation_systems/ml-100k/ua.test',
                            sep='\t', names=r_cols, encoding='latin-1')
 
 rate_train = ratings_base.values
@@ -34,7 +34,7 @@ i_cols = ['movie id', 'movie title', 'release date', 'video release date', 'IMDb
           'Animation', 'Children\'s', 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy',
           'Film-Noir', 'Horror', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western']
 
-items = pd.read_csv('./data/recommendation_systems/ml-100k/u.item',
+items = pd.read_csv('../data/recommendation_systems/ml-100k/u.item',
                     sep='|', names=i_cols, encoding='latin-1')
 n_items = items.shape[0]
 print('Number of items:', n_items)
