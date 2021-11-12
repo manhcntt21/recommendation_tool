@@ -1,7 +1,8 @@
 from flask import Flask, jsonify,request
 import pandas as pd
 from app.collaborative_filtering import CF
-
+from app import popularity
+import numpy as np
 
 app = Flask(__name__)
 
@@ -17,6 +18,10 @@ item = pd.read_csv('./data/recommendation_systems/ml-100k/u.item', sep='|', name
 Y_data = ratings.values
 rs = CF(Y_data=Y_data, Item=item, k=2, uuCF=1)
 rs.fit()
+# id of users
+users = Y_data[:, 0] + 1
+
+
 
 
 @app.route('/')
@@ -26,8 +31,11 @@ def hello_world():
 
 @app.route('/movie', methods=['GET'])
 def recommend_movie():
-
-    res = rs.print_recommendation_one_user(request.args.get('user_id', type=int))
+    user_id = request.args.get('user_id', type=int)
+    if user_id in users:
+        res = rs.print_recommendation_one_user(user_id)
+    else:
+        res = popularity.recommend_population()
     return jsonify(res.to_dict('records'))
 
 

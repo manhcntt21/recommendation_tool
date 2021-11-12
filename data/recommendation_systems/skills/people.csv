@@ -1,0 +1,194 @@
+"id","birthdate","location","updated_by","name","title","created_at","updated_at","picture","competence_notes","company_id","associations_updatet_at","nationality","nationality2","marital_status","email","department_id","user_code"
+"25","25/2/1994 00:00:00","Hà Nội",,"Nguyễn Hữu Hải","Backend developer","25/2/2021 10:34:26.007149","25/2/2021 10:34:26.093742",,,"1",,"CH",,"0","hainh50@viettel.com.vn","1","276091"
+"44","9/7/1992 00:00:00","Ha Noi",,"Đặng Quốc Khánh","Mobile Dev","17/3/2021 03:32:33.678084","17/3/2021 03:32:33.764507",,,"1",,"VN",,"0","khanhdq6@viettel.com.vn",,"274559"
+"37","6/9/1993 00:00:00","Ha Noi",,"Nguyễn Khả Chương","Manager","17/3/2021 03:25:09.442905","17/3/2021 06:45:20.339356",,,"1",,"VN",,"1","chuongnk@viettel.com.vn",,"270978"
+"42","20/9/1995 00:00:00","Ha Noi",,"Nguyễn Tiến Cường","Mobile Dev","17/3/2021 03:31:04.562965","17/3/2021 06:46:29.867824",,,"1",,"VN",,"0","cuongnt45@viettel.com.vn",,"273823"
+"1","16/2/2000 00:00:00","Ambrette Town","seed_user","Đặng Ngọc Anh","Frontend developer","3/2/2021 07:32:16.259858","18/3/2021 01:19:02.792274",,"Animal Oriented Powers
+Symbiote Costume
+Radar Sense
+Radiation Immunity
+Enhanced Touch
+Animation
+Empathy
+Audiokinesis
+Audiokinesis
+","1","18/3/2021 01:19:02.785296","CH",,"0","anhdn37@viettel.com.vn","4","271506"
+"32","12/3/1998 00:00:00","Hà Nội",,"Phạm Văn Đoàn","FE","3/3/2021 04:19:35.417167","10/3/2021 04:36:47.263442",,"HTML
+CSS
+Angular 2+","1","10/3/2021 04:36:47.25695","VN",,"0","doanpv5@viettel.com.vn","1","275041"
+"36","2/2/1996 00:00:00","Hà Nội",,"Nguyễn Minh Tiến","Frontend developer","10/3/2021 04:49:36.477402","10/3/2021 06:55:35.899616",,"HTML5
+CSS
+Angular2+","1","10/3/2021 06:55:35.892341","VN",,"0","tiennm28@viettel.com.vn","1","123"
+"35","10/10/1998 00:00:00","Hà Nội",,"Nguyễn Quang Minh","BE","5/3/2021 05:15:35.367454","10/3/2021 04:42:30.035659",,"","1","10/3/2021 04:42:30.029844","VN",,"0","minhnq25@viettel.com.vn","1","278441"
+"2","2/12/1984 00:00:00","Solaceon Town","seed_user","Lê Quang Đạt","Dev Lead","3/2/2021 07:32:16.578339","25/2/2021 10:27:06.815746",,"Energy Resistance
+Underwater breathing
+Flight
+Portal Creation
+Separation
+","1","3/2/2021 07:32:16.815952","CH",,"0","datlq14@viettel.com.vn","1","274554"
+"38","25/6/1996 00:00:00","Ha Noi ",,"Đỗ Tùng Lâm","Android Dev","17/3/2021 03:26:27.691404","17/3/2021 06:45:32.780827",,,"1",,"VN",,"1","lamdt16@viettel.com.vn",,"271169"
+"26","26/2/1993 00:00:00","Hà Nội",,"Nguyễn Trường Giang","Backend developer","25/2/2021 10:35:28.768855","25/2/2021 10:35:28.843965",,,"1",,"CH",,"0","giangnt113@viettel.com.vn","1","276363"
+"33","1/1/1992 00:00:00","Hà Nội",,"Trần Đại Nghĩa","Fullstack developer","5/3/2021 03:45:48.119688","10/3/2021 03:53:51.743187",,,"1","10/3/2021 03:53:51.737146","VN",,"0","nghiatd11@viettel.com.vn","1","278440"
+"34","24/10/1992 00:00:00","Hà Nội",,"Nguyễn Năng Thịnh","Backend developer","5/3/2021 03:46:43.632504","10/3/2021 04:41:45.387308",,,"1","10/3/2021 04:41:45.380266","VN",,"0","thinhnn1@viettel.com.vn","1","278439"
+"45","5/3/1997 00:00:00","Ha Noi",,"Nguyễn Anh Phương","Mobile Dev","17/3/2021 06:47:22.251148","17/3/2021 06:47:22.50309",,,"1",,"VN",,"0","phuongna3@viettel.com.vn",,"274797"
+"22","19/7/1992 00:00:00","Hà Nội",,"Nguyễn Văn Tuấn","Developer","19/2/2021 03:34:53.952317","5/3/2021 04:08:46.722379",,"Frontend developer
+Backend developer
+Devops","1","5/3/2021 04:08:46.715258","VN",,"1","tuannv105@viettel.com.vn","3","274556"
+"49","15/10/1997 00:00:00","Ha Noi",,"Nguyễn Công Anh","Mobile Dev","17/3/2021 06:52:54.813964","17/3/2021 06:52:54.984116",,,"1",,"VN",,"0","anhnc47@viettel.com.vn",,"278438"
+"46","9/10/1995 00:00:00","Ha Noi",,"Đỗ Minh Đức","Mobile Dev","17/3/2021 06:48:03.82561","17/3/2021 10:14:22.58825",,,"1",,"VN",,"0","ducdm21@viettel.com.vn",,"276299"
+"41","15/10/1992 00:00:00","Ha Noi",,"Phùng Văn Mạnh","Mobile Dev","17/3/2021 03:30:32.679028","17/3/2021 06:46:19.799373",,,"1",,"VN",,"0","manhpv15@viettel.com.vn",,"272641"
+"27","27/2/1991 00:00:00","Hà Nội",,"Trần Hữu Dân","Backend developer","25/2/2021 10:36:18.662236","25/2/2021 10:36:18.744836",,,"1",,"CH",,"0","danth1@viettel.com.vn","1","1234"
+"3","7/9/1996 00:00:00","Hà Nội","seed_user","Phạm Văn Hào","Fullstack developer","3/2/2021 07:32:16.870721","10/3/2021 03:49:01.841328",,"Entropy Projection
+Vaporising Beams
+Energy Absorption
+Energy Absorption
+Immortality
+Force Fields
+Shapeshifting
+Astral Trap
+Shapeshifting
+","4","10/3/2021 03:49:01.832889","VN",,"0","haopv7@viettel.com.vn","6","274211"
+"39","5/10/1994 00:00:00","Ha Noi",,"Ngô Duy Nhật","Mobile Dev","17/3/2021 03:29:02.118163","17/3/2021 07:02:09.532206",,,"1",,"VN",,"0","nhatnd9@viettel.com.vn",,"271692"
+"23","16/7/1996 00:00:00","Ha Noi",,"Nguyễn Hữu Hải","Developer","22/2/2021 03:59:45.003017","23/2/2021 04:41:44.651501",,"-hiểu biết về java , và các framework spring mvc, spring boot
+-đã từng làmt angular, angularjs
+-đã từng sử dụng  git, svn
+- biết về mysql,oracle","1","23/2/2021 04:38:41.456624","VN",,"0","huuhai1881@gmail.com","1",
+"24","17/2/2021 00:00:00","Hà Nội",,"Nguyễn Văn Cường","Cloud","25/2/2021 09:54:00.018186","10/3/2021 04:56:34.832961",,"fsdgsdf","2",,"VN",,"0","cuongnv99@viettel.com.vn","1","274075"
+"40","26/7/1994 00:00:00","Ha Noi",,"Nguyễn Thanh An","Mobile Dev","17/3/2021 03:29:57.96085","17/3/2021 06:46:09.179151",,,"1",,"VN",,"0","annt598@viettel.com.vn",,"271694"
+"47","12/2/1996 00:00:00","Ha Noi",,"Nguyễn Công Long","Mobile Dev","17/3/2021 06:50:06.189081","17/3/2021 07:48:01.860924",,,"1",,"VN",,"0","longnc3@viettel.com.vn",,"276908"
+"28","25/2/1985 00:00:00","Hà Nội",,"Đỗ Ngọc Doanh","Fullstack developer","25/2/2021 11:40:56.522147","25/2/2021 11:40:56.618355",,,"1",,"CH",,"0","doanhdn@viettel.com.vn","2","123"
+"29","19/8/1995 00:00:00","Hà Nội",,"Trương Văn Luân","Backend developer","25/2/2021 11:41:51.337246","10/3/2021 03:46:32.172402",,,"1",,"VN",,"0","luantv13@viettel.com.vn","2","1234"
+"4","8/6/1978 00:00:00","Sandgem Town","seed_user","Lê Mạnh Đức","Dev Lead","3/2/2021 07:32:17.149121","3/3/2021 04:34:26.60773",,"Physical Anomaly
+Empathy
+Animal Control
+Human physical perfection
+Anti-Gravity
+Probability Manipulation
+Sonic Scream
+Animal Attributes
+Photokinesis
+Pyrokinesis
+Sonic Scream
+Invulnerability
+Orbing
+Astral Projection
+Energy Blasts
+","1","3/2/2021 07:32:17.373712","CH",,"0","duclm26@viettel.com.vn","8","274882"
+"43","7/9/1996 00:00:00","Ha Noi",,"Đỗ Xuân Tiến","Mobile Dev","17/3/2021 03:31:51.131995","17/3/2021 06:46:39.835943",,,"1",,"VN",,"0","tiendx2@viettel.com.vn",,"273832"
+"31","25/2/2021 00:00:00","Hà Nội",,"Trần Trường Giang","Backend developer","25/2/2021 11:43:08.505321","25/2/2021 11:43:08.58418",,,"1",,"CH",,"0","giangtt27@viettel.com.vn","2","123"
+"48","12/2/1996 00:00:00","Ha Noi",,"Nguyễn Công Long","Mobile Dev","17/3/2021 06:51:56.413638","17/3/2021 06:51:56.573472",,,"1",,"CH",,"0","longnc3@viettel.com.vn",,"276908"
+"30","15/12/1994 00:00:00","Hà Nội",,"Lê Văn Luật","Dev Lead","25/2/2021 11:42:33.745614","18/3/2021 04:23:50.120811",,,"1","18/3/2021 04:23:50.103787","VN",,"0","luatlv2@viettel.com.vn","2","277201"
+"5","6/9/1996 00:00:00","Ha Noi","seed_user","Hà Văn Chuẩn","Backend developer","3/2/2021 07:32:17.423831","17/3/2021 07:22:55.946295",,"
+","1","17/3/2021 07:22:55.9264","VN",,"0","chuanhv2@viettel.com.vn","1","274881"
+"6","19/5/1962 00:00:00","Nimbasa City","seed_user","Nguyễn Quang Tùng","Fullstack developer","3/2/2021 07:32:17.65306","25/2/2021 10:20:31.795167",,"Size Changing
+Levitation
+Vision - Night
+Mind Control
+Possession
+Enhanced Touch
+Timeframe Control
+Portal Creation
+Energy Constructs
+Phasing
+","2","3/2/2021 07:32:17.854306","CH",,"0","tungnq3@viettel.com.vn","10","271693"
+"7","14/10/1970 00:00:00","Mossdeep City","seed_user","Lâm Quang Phúc","Backend developer","3/2/2021 07:32:17.91248","10/3/2021 04:33:50.559007",,"Insanity
+Seismic Power
+Toxin and Disease Resistance
+Intuitive aptitude
+Atmokinesis
+Physical Anomaly
+Astral Projection
+Geokinesis
+Regeneration
+Astral Trap
+Gravitokinesis
+Spatial Awareness
+Probability Manipulation
+Super Breath
+Molecular Combustion
+","1","10/3/2021 04:33:50.550632","CH",,"0","phuclq2@viettel.com.vn","11","272967"
+"8","21/7/1960 00:00:00","Blackthorn City","seed_user","Nguyễn Phú Quí","Frontend developer","3/2/2021 07:32:18.112059","10/3/2021 04:58:22.560125",,"Angular
+Java 8
+Oracle
+Rest API
+
+","2","10/3/2021 04:58:22.551897","CH",,"0","quinp5@viettel.com.vn","7","272637"
+"9","26/8/1971 00:00:00","Veilstone City","seed_user","Nguyễn Trọng Đoán","Backend developer","3/2/2021 07:32:18.497592","25/2/2021 10:25:49.252296",,"Energy Beams
+Radiation Control
+Super Speed
+Heat Resistance
+Umbrakinesis
+Adaptation
+Enhanced Hearing
+Vision - Infrared
+Aerokinesis
+Banish
+Grim Reaping
+Radiation Absorption
+Astral Projection
+","4","3/2/2021 07:32:18.667247","CH",,"0","doannt9@viettel.com.vn","10","274074"
+"10","28/11/1994 00:00:00","One Island","seed_user","Thái Đình Hùng","FE","3/2/2021 07:32:18.713707","3/3/2021 04:23:51.261012",,"Power Suit
+Heat Resistance
+Enhanced Memory
+Vitakinesis
+Omnilingualism
+Ability Shift
+Psychokinesis
+Spatial Awareness
+Spatial Awareness
+Darkforce Manipulation
+Chronokinesis
+","1","3/2/2021 07:32:18.90472","VN",,"0","hungtd27@viettel.com.vn","4","267304"
+"11","1/5/1983 00:00:00","Eterna City","seed_user","Nguyễn Đức Mạnh","Dev Lead","3/2/2021 07:32:18.946439","25/2/2021 10:23:16.01974",,"Sonic Scream
+Precognition
+Magic Resistance
+Shapeshifting
+Power Cosmic
+Vision - Thermal
+Reality Warping
+Animation
+","2","3/2/2021 07:32:19.181626","CH",,"0","manhnd33@viettel.com.vn","6","272968"
+"12","20/7/1995 00:00:00","Ha Noi","seed_user","Lương Văn Công Hải","Developer","3/2/2021 07:32:19.238815","10/3/2021 04:22:34.331747",,"Java
+Spring-boot
+Angular","4","10/3/2021 04:22:34.324745","VN",,"0","hailvc@viettel.com.vn","2","274216"
+"13","12/9/1997 00:00:00","Hà Nội","seed_user","Nguyễn Tá Thái","BE","3/2/2021 07:32:19.531566","10/3/2021 04:32:29.277884",,"Omnitrix
+Atmokinesis
+Separation
+Vaporising Beams
+Invisibility
+Toxin and Disease Resistance
+Aerokinesis
+Darkforce Manipulation
+Regeneration
+Energy Beams
+Mind Control Resistance
+Wallcrawling
+Self-Sustenance
+","2","3/2/2021 07:32:19.735599","VN",,"0","thaint17@viettel.com.vn","3","271505"
+"14","23/12/1995 00:00:00","Hanoi","seed_user","Lại Minh Đức","Backend Developer","3/2/2021 07:32:19.793937","18/3/2021 01:46:08.622608",,"
+","4","18/3/2021 01:46:08.615229","VN",,"0","duclm25@viettel.com.vn","11","271504"
+"15","7/2/1993 00:00:00","Hà Nội","seed_user","Phùng Nam Can","Customer Officer","3/2/2021 07:32:20.060442","5/3/2021 03:43:03.166803",,"","2","5/3/2021 03:43:03.160457","VN",,"1","canpn@viettel.com.vn","8","277528"
+"16","16/1/1997 00:00:00","Hà Nội","seed_user","Vũ Đại Dương","Developer","3/2/2021 07:32:20.400851","17/3/2021 07:02:09.011714",,"","1","10/3/2021 04:12:24.28553","VN",,"0","duongvd5@viettel.com.vn","1","273896"
+"17","4/10/1993 00:00:00","Hà nội","seed_user","Lê Thị Thu Thảo","FE","3/2/2021 07:32:20.661062","10/3/2021 04:50:07.151242",,"
+","1","10/3/2021 04:48:59.69485","VN",,"1","thaoltt11@viettel.com.vn","4","271764"
+"18","13/2/1993 00:00:00","ha noi","seed_user","Đỗ Văn Đô","Dev Lead","3/2/2021 07:32:20.899193","5/3/2021 04:00:43.686102",,"Time Travel
+Empathy
+Duplication
+Hypnokinesis
+Energy Resistance
+","1","5/3/2021 04:00:43.677976","VN",,"1","dodv3@viettel.com.vn","5","274018"
+"19","9/7/1958 00:00:00","New Bark Town","seed_user","Ngô Sỹ Kiên","Fullstack Developer","3/2/2021 07:32:21.170413","25/2/2021 10:20:02.922712",,"Pyrokinesis
+Longevity
+Melting
+Gravitokinesis
+Timeframe Control
+Illusions
+","3","3/2/2021 07:32:21.410058","CH",,"0","kienns1@viettel.com.vn","6","271166"
+"20","7/2/1961 00:00:00","Seven Island","seed_user","Hoàng Như Ý","Legacy Developer","3/2/2021 07:32:21.47191","25/2/2021 10:18:50.361505",,"Latent Abilities
+Radar Sense
+Energy Manipulation
+Shapeshifting
+Timeframe Control
+Clairvoyance
+Animal Attributes
+","1","3/2/2021 07:32:21.673194","CH",,"0","yhn15@viettel.com.vn","2","271762"
