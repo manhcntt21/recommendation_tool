@@ -18,6 +18,7 @@ skills = pd.read_csv('../data/recommendation_systems/skills/skills.csv', header=
 pc_col = ['id', 'person_id', 'project_id', 'completion_time', 'success_rate']
 project = pd.read_csv('../data/recommendation_systems/skills/projects_custom.csv', sep=',', names=pc_col, encoding='latin-1')
 
+
 print(project[['id', 'person_id']].loc[2])
 
 # a = [3, 5, 7, 9, 10, 12, 14 ,15 ,16 ,18, 20, 22, 24, 26, 29, 30, 33, 35]
